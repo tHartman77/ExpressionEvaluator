@@ -7,8 +7,10 @@ Given a prefix expression, ExpressionEvaluator can calculate the result.
 
 ExpressionEvaluator.java
     - Contains the source code for Button's 2018 Engineering Intern Coding Challenge.
+    
 ExpressionEvaluatorExample.java
     - A runnable example of the code in ExpressionEvaluator.
+
 README.md
     - This file
 

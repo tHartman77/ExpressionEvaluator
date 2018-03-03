@@ -1,7 +1,7 @@
 # ExpressionEvaluator
 
 ExpressionEvaluator is a prefix expression evaluator for Button's 2018 Engineering Intern Coding Challenge.
-Given a prefix expression, ExpressionEvaluator can calculate the result.
+Given a valid prefix expression, ExpressionEvaluator can calculate the result.
 
 ## Contents
 
@@ -20,13 +20,14 @@ First compile the program using:
     `javac ExpressionEvaluatorExample.java`
 
 Then execute the program using:
-    `java ExpressionEvaluationExample [expression]`
+    `java ExpressionEvaluatorExample [expression]`
 
 Example run:
-    
-    `java ExpressionEvaluationExample "+ 1 2"`
-    
-    `+ 1 2 = 3`
+
+```
+java ExpressionEvaluationExample "+ 1 2"
++ 1 2 = 3
+```
 
 ## Author
 

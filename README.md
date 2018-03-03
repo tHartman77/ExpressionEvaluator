@@ -20,7 +20,7 @@ First compile the program using:
     `javac ExpressionEvaluatorExample.java`
 
 Then execute the program using:
-    `java ExpressionEvaluationExample [expression]'
+    `java ExpressionEvaluationExample [expression]`
 
 Example run:
     `java ExpressionEvaluationExample "+ 1 2"`
